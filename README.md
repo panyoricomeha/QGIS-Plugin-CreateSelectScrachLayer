@@ -1,2 +1,2 @@
-# QGIS-Plugin-CreateSelectScrachLayer
+# QGIS-Plugin-Create-Select-ScrachLayer
 QGIS-Plugin-CreateSelectScrachLayer
