@@ -1,0 +1,24 @@
+[general]
+name=Create Select Scrach Layer
+qgisMinimumVersion=3.0
+version=1.0.0
+description=Create a temporary scratch layer from selected features.（選択地物から一時スクラッチレイヤを作成します）
+about=This plugin creates a temporary memory layer containing only the selected features from the active vector layer. It preserves the geometry type, CRS, and attributes of the original layer.\n\n🇯🇵 日本語翻訳対応済み（i18n/CreateSelectScrachLayer_ja.ts）
+
+author=Rikuto Arita
+email=panyoricomeha6466@gmail.com
+
+icon=icon.png
+homepage=https://github.com/panyoricomeha/QGIS-Plugin-CreateSelectScrachLayer
+repository=https://github.com/panyoricomeha/QGIS-Plugin-CreateSelectScrachLayer.git
+
+tags=vector, scratch, selection, memory, Japanese, QGIS plugin
+category=Vector
+
+experimental=False
+deprecated=False
+server=False
+
+# Optional
+hasProcessingProvider=no
+changelog=Version 1.0.0: Initial release with English and Japanese translation support.
